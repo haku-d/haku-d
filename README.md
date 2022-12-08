@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ReactJs, NestJs, MongoDb, AWS
+- 🌱 I’m currently learning AWS, Micro-Service
+- 🤔 What I've done in the past: PHP, Python, NodeJs
+- 📫 How to reach me: thanh@clgt.vn
+
 <!--
 **dasani08/dasani08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
