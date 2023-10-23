@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ReactJs, NestJs, MongoDb, AWS
-- 🌱 I’m currently learning AWS, Micro-Service
+- 🌱 I’m currently learning AWS, Python
 - 🤔 What I've done in the past: PHP, Python, NodeJs
 - 📫 How to reach me: thanh@clgt.vn
 
