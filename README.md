@@ -1,9 +1,11 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on ReactJs, NestJs, MongoDb, AWS
-- 🌱 I’m currently learning AWS, Python
-- 🤔 What I've done in the past: PHP, Python, NodeJs
-- 📫 How to reach me: thanh@clgt.vn
+- :snowflake: I am now living in Calgary, Canada
+- :heart: :coffee: and making ui/ux
+- :muscle: I can tackle front-end work as well as server-side work.
+- :rainbow: Things I have worked on are React, Next.js, Nest.js, CakePHP, Flask (Python), AWS
+- :shit: Fun fact: You cannot count how many year of exp do you have on a technolgoy. Someone just counts by the time they started working on it.
+- 📫 Reach me out if you are interested: thanh@clgt.vn
+- :link: My site [Thanh D](https://thanhd.ca/).
 
 <!--
 **dasani08/dasani08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
