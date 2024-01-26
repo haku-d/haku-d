@@ -5,7 +5,7 @@
 - :rainbow: Things I have worked on are React, Next.js, Nest.js, CakePHP, Flask (Python), AWS
 - :shit: Fun fact: You cannot count how many year of exp do you have on a technolgoy. Someone just counts by the time they started working on it.
 - 📫 Reach me out if you are interested: thanh@clgt.vn
-- :link: My site [Thanh D](https://thanhd.ca/).
+- :link: Wanna see my works [Thanh D](https://thanhd.ca/).
 
 <!--
 **dasani08/dasani08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
