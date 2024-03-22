@@ -7,6 +7,8 @@
 - 📫 Reach me out if you are interested: thanh@clgt.vn
 - :link: Wanna see my works [Thanh D](https://thanhd.ca/).
 
+![](https://github-readme-stats.vercel.app/api?username=haku-d&show_icons=true&count_private=false&theme=prussian)
+
 <!--
 **dasani08/dasani08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
