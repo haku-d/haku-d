@@ -1,11 +1,8 @@
-### Hi there 👋
-- :snowflake: I am now living in Calgary, Canada
-- :heart: :coffee: and making ui/ux
-- :muscle: I can tackle front-end work as well as server-side work.
-- :rainbow: Things I have worked on are React, Next.js, Nest.js, CakePHP, Flask (Python), AWS
-- :shit: Fun fact: You cannot count how many year of exp do you have on a technolgoy. Someone just counts by the time they started working on it.
-- 📫 Reach me out if you are interested: thanh@clgt.vn
-- :link: Wanna see my works [Thanh D](https://thanhd.ca/).
+### Hi, my name is Thanh 👋
+- :mountain_snow: Located Calgary, Canada
+- I :heart: :coffee: & making web applications
+- :rainbow: Currently working with Next.js & learning Typescript
+- 📫 hello@thanhd.ca
 
 ![](https://github-readme-stats.vercel.app/api?username=haku-d&show_icons=true&count_private=false&theme=prussian)
 
